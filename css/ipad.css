@@ -50,22 +50,24 @@
   border-width: 2px;
   z-index: 1;
 }
-
-.ipad .receiver {
-  position: absolute;
-  left: 303px;
-  top: 31px;
-  z-index: 20;
-  height: 4px;
-  width: 44px;
+/***** Camera *****/
+.ipad .front-camera {
+  height: 5px;
+  width: 5px;
   border-style: solid;
   border-color: #222024 #343436 #48494a;
   border-width: 3px;
+  margin-left: 288px;
+  margin-top: -9px;
   -moz-border-radius: 25px;
   -webkit-border-radius: 25px;
   border-radius: 25px;
-  background: #7e7e7e;
-  box-shadow: inset 0 2px 3px #555555;
+  background: #032139;
+  background-image:   linear-gradient(top, #002d68 0%, #18446f 30%, #032139 100%);
+  background-image:   -moz-linear-gradient(top, #002d68 0%, #18446f 30%, #032139 100%); 
+  background-image:   -webkit-linear-gradient(top, #002d68 0%, #18446f 30%, #032139 100%); 
+  background-image:   -o-linear-gradient(top, #002d68 0%, #18446f 30%, #032139 100%); 
+  background-image:   -ms-linear-gradient(top, #002d68 0%, #18446f 30%, #032139 100%);  
 }
 
 /***** Buttons *****/
