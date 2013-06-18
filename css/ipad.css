@@ -21,7 +21,7 @@
 .ipad .glow {
   height: 70px;
   position: absolute;
-  width: 333px;
+  width: 337px;
   z-index: 10;
   top: 0;
   right: 0px;
@@ -57,7 +57,7 @@
   border-style: solid;
   border-color: #222024 #343436 #48494a;
   border-width: 3px;
-  margin-left: 288px;
+  margin-left: 282px;
   margin-top: -9px;
   -moz-border-radius: 25px;
   -webkit-border-radius: 25px;
@@ -85,7 +85,7 @@
   background: -o-linear-gradient(top, #000 0%, #000 52%, #212121 53%, #434343 100%);
   position: absolute;
   bottom: 15px;
-  left: 303px;
+  left: 306px;
   box-shadow: 0 -1px 0 #222222;
 }
 .ipad .home-button .button-inner {
