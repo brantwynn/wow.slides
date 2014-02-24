@@ -2,9 +2,9 @@
   border-style: solid;
   border-color: #d2d2d2 #bebebe #afafaf;
   border-width: 3px;
-  height: 440px;
+  height: 480px;
   position: relative;
-  width: 220px;
+  width: 260px;
   -moz-border-radius: 34px;
   -webkit-border-radius: 34px;
   -o-border-radius: 34px;
@@ -39,8 +39,8 @@
 }
 
 .iphone .screen {
-  width: 195px;
-  height: 290px;
+  width: 230px;
+  height: 320px;
   background: #fff;
   position: absolute;
   top: 73px;
@@ -101,7 +101,7 @@
   background: -o-linear-gradient(top, #000 0%, #000 52%, #212121 53%, #434343 100%);
   position: absolute;
   bottom: 15px;
-  left: 88px;
+  left: 104px;
   box-shadow: 0 -1px 0 #222222;
 }
 .iphone .home-button .button-inner {
